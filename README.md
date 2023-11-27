@@ -26,9 +26,9 @@
 
 ## Test
 * Place the pre-training weight in the `checkpoint` folder.
-* For the dehazing task, place test hazy images in the `input/hazy` folder. Modify the `Type==2`,  the `line 55` of `test.py`.
-* For the deraining task, place test rainy images in the `input/rainy` folder. Modify the `Type==0`,  the `line 55` of `test.py`.
-* For the low-light enhancement task, place test low-light images in the `input/low` folder. Modify the `Type==2`,  the `line 55` of `test.py`.
+* For the dehazing task, place test hazy images in the `input/hazy` folder. Modify the `Type=2`,  the `line 54` of `test.py`.
+* For the deraining task, place test rainy images in the `input/rainy` folder. Modify the `Type=0`,  the `line 54` of `test.py`.
+* For the low-light enhancement task, place test low-light images in the `input/low` folder. Modify the `Type=1`,  the `line 55` of `test.py`.
 * Run `test.py`
 * The results are saved in `output/hazy` folder (dehazing), `output/rainy` folder (deraining), `output/low` folder (low-light enhancement).
 
