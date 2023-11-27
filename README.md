@@ -25,7 +25,7 @@
 ![Image](images/Network.jpg)
 
 ## Test
-* Place the pre-training weight in the `checkpoint` folder.[README.md](..%2F..%2F..%2FEnhancement%2FDehazing%20method%2FCNN%20method%2FTOENet-main%2FREADME.md)
+* Place the pre-training weight in the `checkpoint` folder.
 * For the dehazing task, place test hazy images in the `input/hazy` folder. Modify the `Type==2`,  the `line 55` of `test.py`.
 * For the deraining task, place test rainy images in the `input/rainy` folder. Modify the `Type==0`,  the `line 55` of `test.py`.
 * For the low-light enhancement task, place test low-light images in the `input/low` folder. Modify the `Type==2`,  the `line 55` of `test.py`.
