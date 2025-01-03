@@ -50,6 +50,7 @@
 @article{liu2024real,
   title={Real-Time Multi-Scene Visibility Enhancement for Promoting Navigational Safety of Vessels Under Complex Weather Conditions},
   author={Liu, Ryan Wen and Lu, Yuxu and Gao, Yuan and Guo, Yu and Ren, Wenqi and Zhu, Fenghua and Wang, Fei-Yue},
-  journal={arXiv preprint arXiv:2409.01500},
-  year={2024}
+  journal={IEEE Transactions on Intelligent Transportation Systems},
+  year={2024},
+  publisher={IEEE}
 }
